@@ -1,8 +1,6 @@
 # Git-Notes
 
-## print log
-
-<br>
+### print log
 
 ```
 git log master > xxx.log
